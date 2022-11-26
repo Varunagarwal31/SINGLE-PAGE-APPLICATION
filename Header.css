@@ -1,0 +1,8 @@
+.headerDiv {
+    position: relative;
+    font-weight: 900;
+    font-size: larger;
+}
+.headerDivMain{
+    background: steelblue;
+}

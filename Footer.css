@@ -1,0 +1,17 @@
+.footerdiv{
+    background-color: black;
+    color: white;
+    margin-top: 30%;
+    float: left;
+    width: 100%;
+}
+
+.footerDiv {
+    text-align: center;
+}
+@media only screen and (max-width: 767px){
+.footerMain{
+    text-align: center;
+}
+.footerdiv{margin-top: 100%;}
+}
